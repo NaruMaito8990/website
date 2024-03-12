@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://narumaito8990.github.io/website/sitemap.xml
+Sitemap: https://narumaito8990.github.io/website//sitemap.xml
